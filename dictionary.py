@@ -1,4 +1,5 @@
 # 1-items
+print("info about dictionary")
 d={}
 d[100]="Ram"
 d[200]="Shyam"
