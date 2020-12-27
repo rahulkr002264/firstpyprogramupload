@@ -9,6 +9,3 @@ print(d)
 print(d.items())
 d["raj"]=600
 print(d)
-print(d)
-print(d)
-print(d)
